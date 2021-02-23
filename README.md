@@ -11,4 +11,4 @@ TypoScript basics,
 HTML,
 CSS (Bootstrap),
 JavaScript,
-Sitepackages
+sitepackages
