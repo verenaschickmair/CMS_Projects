@@ -9,6 +9,6 @@ extensions (forms/news),
 language management (German/English),
 TypoScript basics,
 HTML,
-CSS (Bootstrap),
+CSS (with Bootstrap),
 JavaScript,
 sitepackages
